@@ -48,5 +48,3 @@ El contexto elegido es un **Pet Shop online en Rosario**, que vende alimentos, a
    Get-Content ventas.json    | ConvertFrom-Json | Out-Null; Write-Output "Ventas OK"
 
 ---
-
-**Licencia:** Uso educativo
