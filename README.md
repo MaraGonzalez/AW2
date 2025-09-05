@@ -18,7 +18,7 @@ El contexto elegido es un **Pet Shop online en Rosario**, que vende alimentos, a
   - 5 alimentos para otros animales (hámsters, conejos, aves, peces)  
   - 10 accesorios (camas, correas, peceras, jaulas, transportines, mochilas, rascadores)  
   - 5 arenas/piedritas sanitarias  
-  Cada producto incluye `id`, `nombre`, `desc`, `precio`, `imagen`, `stock`, `disponible`, `categoria`, `marca` y `destacado`.
+  Cada producto incluye `id`, `nombre`, `desc`, `precio`, `imagen`, `stock`, `disponible`, `categoria` y `marca`.
 
 - **ventas.json**  
   Contiene **7 ventas realizadas**.  
