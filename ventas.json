@@ -1,0 +1,177 @@
+[
+  {
+    "id": 4001,
+    "id_usuario": 1,
+    "fecha": "01-09-2025, 15:01:25",
+    "direccion": "Bv. Oroño 123, Rosario, Santa Fe",
+    "metodo_pago": "tarjeta",
+    "productos": [
+      {
+        "id": 301,
+        "nombre": "Alimento para perro adulto Purina Dog Chow",
+        "precio_unitario": 27651.34,
+        "cantidad": 1,
+        "subtotal": 27651.34
+      },
+      {
+        "id": 333,
+        "nombre": "Correa extensible 5m",
+        "precio_unitario": 14808.81,
+        "cantidad": 1,
+        "subtotal": 14808.81
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 42460.15
+  },
+  {
+    "id": 4002,
+    "id_usuario": 2,
+    "fecha": "03-09-2025, 13:22:38",
+    "direccion": "Av. Pellegrini 2450, Rosario, Santa Fe",
+    "metodo_pago": "transferencia",
+    "productos": [
+      {
+        "id": 313,
+        "nombre": "Alimento para gato adulto Pro Plan",
+        "precio_unitario": 39855.72,
+        "cantidad": 1,
+        "subtotal": 39855.72
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 39855.72
+  },
+  {
+    "id": 4003,
+    "id_usuario": 3,
+    "fecha": "03-09-2025, 17:54:49",
+    "direccion": "Córdoba 1800, Rosario, Santa Fe",
+    "metodo_pago": "mercado_pago",
+    "productos": [
+      {
+        "id": 324,
+        "nombre": "Escamas nutritivas para peces tropicales Tetra",
+        "precio_unitario": 11466.07,
+        "cantidad": 2,
+        "subtotal": 22932.14
+      },
+      {
+        "id": 341,
+        "nombre": "Arena sanitaria aglomerante",
+        "precio_unitario": 10355.99,
+        "cantidad": 1,
+        "subtotal": 10355.99
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 33288.13
+  },
+  {
+    "id": 4004,
+    "id_usuario": 4,
+    "fecha": "04-09-2025, 13:53:29",
+    "direccion": "Mendoza 900, Rosario, Santa Fe",
+    "metodo_pago": "tarjeta",
+    "productos": [
+      {
+        "id": 314,
+        "nombre": "Alimento para gato adulto Royal Canin",
+        "precio_unitario": 37246.72,
+        "cantidad": 1,
+        "subtotal": 37246.72
+      },
+      {
+        "id": 334,
+        "nombre": "Collar regulable",
+        "precio_unitario": 7773.46,
+        "cantidad": 2,
+        "subtotal": 15546.92
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 52793.64
+  },
+  {
+    "id": 4005,
+    "id_usuario": 5,
+    "fecha": "04-09-2025, 11:11:14",
+    "direccion": "Mitre 700, Rosario, Santa Fe",
+    "metodo_pago": "efectivo",
+    "productos": [
+      {
+        "id": 321,
+        "nombre": "Alimento para hámsters",
+        "precio_unitario": 7147.59,
+        "cantidad": 1,
+        "subtotal": 7147.59
+      },
+      {
+        "id": 336,
+        "nombre": "Jaula para canarios",
+        "precio_unitario": 24904.99,
+        "cantidad": 1,
+        "subtotal": 24904.99
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 32052.58
+  },
+  {
+    "id": 4006,
+    "id_usuario": 6,
+    "fecha": "05-09-2025, 09:39:03",
+    "direccion": "Maipú 2500, Rosario, Santa Fe",
+    "metodo_pago": "tarjeta",
+    "productos": [
+      {
+        "id": 331,
+        "nombre": "Cama para perro mediana",
+        "precio_unitario": 20283.12,
+        "cantidad": 1,
+        "subtotal": 20283.12
+      },
+      {
+        "id": 341,
+        "nombre": "Arena sanitaria aglomerante",
+        "precio_unitario": 10355.99,
+        "cantidad": 2,
+        "subtotal": 20711.98
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 40995.1
+  },
+  {
+    "id": 4007,
+    "id_usuario": 2,
+    "fecha": "05-09-2025, 15:23:45",
+    "direccion": "San Martín 1600, Rosario, Santa Fe",
+    "metodo_pago": "mercado_pago",
+    "productos": [
+      {
+        "id": 339,
+        "nombre": "Mochila transportadora",
+        "precio_unitario": 48965.38,
+        "cantidad": 1,
+        "subtotal": 48965.38
+      },
+      {
+        "id": 335,
+        "nombre": "Pecera 100L con filtro",
+        "precio_unitario": 17797.08,
+        "cantidad": 1,
+        "subtotal": 17797.08
+      },
+      {
+        "id": 312,
+        "nombre": "Alimento para gato adulto Purina Cat Chow",
+        "precio_unitario": 12445.16,
+        "cantidad": 1,
+        "subtotal": 12445.16
+      }
+    ],
+    "costo_envio": 0.0,
+    "total": 79207.62
+  }
+]
