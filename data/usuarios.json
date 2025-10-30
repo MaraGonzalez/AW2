@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mara",
+    "apellido": "Gonzalez",
+    "email": "maragonzalez@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser01xxxx",
+    "telefono": "+54 9 341 5555-111",
+    "mascotas": [
+      "Gato - Darwin",
+      "Gato - Kayra"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Ailin",
+    "apellido": "Theiler",
+    "email": "ailintheiler@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser02xxxx",
+    "telefono": "+54 9 341 5555-222",
+    "mascotas": [
+      "Gato - Bandido",
+      "Gato - Mantecol"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Viviana",
+    "apellido": "Basabilvaso",
+    "email": "vivianabasabilvaso@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser03xxxx",
+    "telefono": "+54 9 341 5555-333",
+    "mascotas": [
+      "Perro - Caoba",
+      "Conejo - Morcilla"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Liliana",
+    "apellido": "Villalba",
+    "email": "lilianavillalba@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser04xxxx",
+    "telefono": "+54 9 341 5555-444",
+    "mascotas": [
+      "Perro - Isaac",
+      "Gato - Newton"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Isabella",
+    "apellido": "Leuci",
+    "email": "isabellaleuci@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser05xxxx",
+    "telefono": "+54 9 341 5555-555",
+    "mascotas": [
+      "Pez - Nemo"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Juana",
+    "apellido": "Diaz",
+    "email": "juanadiaz@mail.com",
+    "contraseña": "$2b$12$demoHashValueUser06xxxx",
+    "telefono": "+54 9 341 5555-666",
+    "mascotas": [
+      "Hamster - Goku"
+    ]
+  }
+]
