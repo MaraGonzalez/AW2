@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { readFile, writeFile } from 'fs/promises';
+import { readJson, writeJson } from '../lib/fsjson.js';
 import { fileURLToPath } from 'url';
 import path from 'path';
 
@@ -7,17 +7,6 @@ const router = Router();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const dataDir = path.join(__dirname, '..', 'data');
-
-async function readJson(name) {
-  const full = path.join(dataDir, name);
-  const raw = await readFile(full, 'utf8');
-  return JSON.parse(raw);
-}
-async function writeJson(name, data) {
-  const full = path.join(dataDir, name);
-  await writeFile(full, JSON.stringify(data, null, 2), 'utf8');
-}
 
 
 // SOLICITUDES MÉTODO GET:
