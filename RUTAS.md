@@ -47,12 +47,14 @@
 - `ventas.json`
 
 ---
-🚀 **Instalación y ejecución del proyecto**
+🚀 **Instalación y ejecución del proyecto**  
+---
 1️⃣ **Instalar dependencias**
 Asegurate de estar dentro de la carpeta del proyecto y ejecutá el siguiente comando en la terminal:
 
 ```bash
 npm install
 npm run dev
-
+```
+---
 📁 **Prefijo de todas las rutas:** `http://localhost:3000/api/`
